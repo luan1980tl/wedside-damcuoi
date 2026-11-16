@@ -1,0 +1,2 @@
+[functions.notify-wedding-wish]
+verify_jwt = false
